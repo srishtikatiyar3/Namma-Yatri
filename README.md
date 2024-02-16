@@ -3,17 +3,23 @@ A replication of Namma Yatri app that has become Bengaluru's most loved auto app
 
 
 
-Dashboard
+**Dashboard Details**
+
 a) Used KPIs to highlight key performances
+
 b) Used a measure to calculate conersion rate in gauge chart
+
 c) Used line charts to show trends
+
 d) Used a table chart by merging 3 tables in power query editor using tranform data 
+
 e) Used map to show geographical reach
+
 f) Used slicer as a fliter
 
 
 
-**Namma Yatri (Dashboard created using Power BI)**
+**Namma Yatri Dashboard using Power BI**
 
 ![Screenshot_20240216_154608_Doc Scanner](https://github.com/srishtikatiyar3/Namma-Yatri/assets/160014323/4ae730f8-42da-44fe-a246-5a5e795be240)
 
@@ -25,7 +31,8 @@ Namma Yatri app (original from app)
 
 
 
-SQL- 
+**SQL Queries-** 
+
 a) Used SQL commands to replicate the Namma yatri app
 
 b) Used aggregate functions like count,sum,avg
