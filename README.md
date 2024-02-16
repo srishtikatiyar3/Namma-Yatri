@@ -16,6 +16,15 @@ c) Used line charts to show trends
 d) Used a table chart by merging 3 tables in power query editor using tranform data 
 e) Used map to show geographical reach
 f) Used slicer as a fliter
+
+
+
+Namma Yatri (Dashboard created using Power BI)
+
+![Screenshot_20240216_154608_Doc Scanner](https://github.com/srishtikatiyar3/Namma-Yatri/assets/160014323/4ae730f8-42da-44fe-a246-5a5e795be240)
+
+
+Namma Yatri app (original from app)
 ![Screenshot_20240216_153614_Chrome](https://github.com/srishtikatiyar3/Namma-Yatri/assets/160014323/356523b1-df94-41ec-b78d-50b83786cc5d)
 ![Screenshot_20240216_153622_Chrome](https://github.com/srishtikatiyar3/Namma-Yatri/assets/160014323/4e44f581-e9e2-4558-9032-a5c56a2924c5)
 ![Screenshot_20240216_153634_Chrome](https://github.com/srishtikatiyar3/Namma-Yatri/assets/160014323/70353bae-ba96-4165-b075-2a10b51df4ba)
